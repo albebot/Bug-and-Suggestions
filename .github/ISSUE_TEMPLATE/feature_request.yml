@@ -30,8 +30,8 @@ body:
       label: How do you feel about your suggestion? How much value do you think it would add to the bot for you and other users? 
       description: Please be realistic. You can justify your choice in the field above
       options:
-        - Low (I can survive without it)
-        - Medium (Would be cool to have)
-        - High (Can't live without it)
+        - Little value (I can survive without it)
+        - Great value (Would be cool to have)
+        - Lot of value (Can't live without it)
     validations:
       required: true
