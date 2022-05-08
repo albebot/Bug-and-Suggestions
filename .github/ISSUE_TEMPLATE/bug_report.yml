@@ -11,6 +11,7 @@ body:
     attributes:
       label: Command
       description: Provide the command name which is causing this bug/issue
+      placeholder: inventory
     validations:
       required: true
       
